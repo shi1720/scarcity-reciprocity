@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "Please cite the manuscript and reproducibility package when using this work."
+title: "Who Gets the Recovery Hour? Data Centre Flexibility and Small-State Agency across Indo-Pacific Power Borders"
+type: software
+authors:
+  - family-names: Gupta
+    given-names: Shivam
+date-released: 2026-10-17
+version: 1.0.0
+url: "https://github.com/shi1720/scarcity-reciprocity"
+repository-code: "https://github.com/shi1720/scarcity-reciprocity"
+license: MIT

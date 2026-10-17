@@ -1,0 +1,73 @@
+[
+  {
+    "id": "imda2024",
+    "url": "https://www.imda.gov.sg/resources/press-releases-factsheets-and-speeches/factsheets/2024/charting-green-growth-for-data-centres-in-sg",
+    "status": 200,
+    "sha256": "695371265c830b7a68a2ca8ef44eb804d454241a3ba39afccbf7d71f5e6fa97e",
+    "bytes": 124016,
+    "access_date": "2026-10-17",
+    "snapshot_usable": true
+  },
+  {
+    "id": "ema2025",
+    "url": "https://www.ema.gov.sg/news-events/news/media-releases/2025/new-initiatives-to-bolster-power-grid-reliability-through-flexible-electricity-demand",
+    "status": 200,
+    "sha256": "d02032286070b4dd9d8fbd985a7bdca8af8edf52b89ff177db3bfcb2c8a9c43d",
+    "bytes": 212,
+    "access_date": "2026-10-17",
+    "snapshot_usable": false,
+    "note": "Direct download returned a 212-byte access challenge; substantive text was inspected through research browser."
+  },
+  {
+    "id": "mida2026",
+    "url": "https://www.mida.gov.my/media-release/mida-charts-next-phase-for-malaysias-data-centre-sector-from-attracting-investment-to-building-value-for-smes-and-malaysians/",
+    "status": 200,
+    "sha256": "79feb1edea094c85a8260dd23d0c9d072feb9aad378e71f2a364a76c9e685176",
+    "bytes": 316609,
+    "access_date": "2026-10-17",
+    "snapshot_usable": true
+  },
+  {
+    "id": "dfat2025",
+    "url": "https://www.dfat.gov.au/geo/singapore/singapore-australia-green-economy-agreement/cross-border-electricity-trade-framework",
+    "retrieval_error": "ReadTimeout",
+    "access_date": "2026-10-17",
+    "snapshot_usable": false,
+    "note": "Content inspected through research browser; no usable direct local snapshot."
+  },
+  {
+    "id": "luo2026",
+    "url": "https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/ein2.70031",
+    "retrieval_error": "HTTPError",
+    "access_date": "2026-10-17",
+    "snapshot_usable": false,
+    "note": "Content inspected through research browser; no usable direct local snapshot."
+  },
+  {
+    "id": "norris2025",
+    "url": "https://nicholasinstitute.duke.edu/sites/default/files/publications/rethinking-load-growth.pdf",
+    "status": 200,
+    "sha256": "411ab12b1ae0be8bc4c7878832eb72c91c67ce851d5aaf28d763d75f61e2cbf1",
+    "bytes": 12629335,
+    "access_date": "2026-10-17",
+    "snapshot_usable": true
+  },
+  {
+    "id": "mida2024",
+    "local_snapshot": "malaysia-guideline.pdf",
+    "sha256": "4894d5d4509b03538c6e5891bf1603ee661b05c7631de14f52ea3680ceda4b29",
+    "bytes": 240415,
+    "access_date": "2026-10-17",
+    "snapshot_usable": true,
+    "url": "https://www.mida.gov.my/wp-content/uploads/2024/12/Guideline-for-Sustainable-Development-of-Data-Centre.pdf"
+  },
+  {
+    "id": "iea2026",
+    "local_snapshot": "iea-2026.pdf",
+    "sha256": "b0dc1692a9b6e72a7e4dfbea36f2acbf0ee2b400f045ac362a066b0fb86faf53",
+    "bytes": 4847356,
+    "access_date": "2026-10-17",
+    "snapshot_usable": true,
+    "url": "https://www.iea.org/reports/powering-artificial-intelligence"
+  }
+]

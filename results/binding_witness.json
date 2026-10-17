@@ -1,0 +1,8 @@
+{
+  "scenario": 4,
+  "start": 12,
+  "end": 24,
+  "mandatory_IT_MWh": 50.338461538461544,
+  "available_IT_MWh": 50.33846153846154,
+  "margin": -7.105427357601002e-15
+}

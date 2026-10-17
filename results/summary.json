@@ -1,0 +1,11 @@
+{
+  "configurations": 288,
+  "solves": 869,
+  "max_residual": 1.9184653865522705e-13,
+  "max_oracle_error": 4.166664835381084e-08,
+  "discard_overstatement_min": 0.0,
+  "discard_overstatement_max": 4.0000000000000036,
+  "discard_overstates": 206,
+  "foresight_overstates": 0,
+  "max_foresight_overstatement": 1.7763568394002505e-15
+}
